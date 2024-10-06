@@ -1,0 +1,23 @@
+{
+  "name": "Test-Tax-NFT #1",
+  "description": "This is an example NFT from the Test-Tax-NFT collection. Each token is unique and has its own metadata.",
+  "image": "http://localhost:8000/images/1.png",
+  "attributes": [
+    {
+      "trait_type": "InvoiceNum",
+      "value": "xxxxxxxxxx"
+    },
+    {
+      "trait_type": "InvoiceDate",
+      "value": "2024-01-01"
+    },
+    {
+      "trait_type": "ABN",
+      "value": "xxxxxxxxx"
+    },
+    {
+      "trait_type": "TotalAmount",
+      "value": "1999.99"
+    }
+  ]
+}
